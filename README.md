@@ -1,4 +1,6 @@
-# hello-world
-Empezando con git
+# Probabilidad, procesos aleatorios e inferencia
 
-Editando el archivo Readme
+Ejecicios de probabilidad, programas, gráficas en ROOT, etc.
+
+Índice
+1.- Volados
