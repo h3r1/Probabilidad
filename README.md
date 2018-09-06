@@ -2,5 +2,6 @@
 
 Ejecicios de probabilidad, programas, gráficas en ROOT, etc.
 
-Índice
+Índice.
+
 1.- Volados
